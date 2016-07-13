@@ -1,0 +1,27 @@
+Steps
+
+3. food = pd.read_csv('YOUR_PATH/FoodFacts.csv')
+
+4. food.head()
+
+5. 65503
+
+6. 159
+
+7. Index([u'code', u'url', u'creator', u'created_t', u'created_datetime',
+       u'last_modified_t', u'last_modified_datetime', u'product_name',
+       u'generic_name', u'quantity',
+       ...
+       u'caffeine_100g', u'taurine_100g', u'ph_100g',
+       u'fruits_vegetables_nuts_100g', u'collagen_meat_protein_ratio_100g',
+       u'cocoa_100g', u'chlorophyl_100g', u'carbon_footprint_100g',
+       u'nutrition_score_fr_100g', u'nutrition_score_uk_100g'],
+      dtype='object', length=159)
+
+8. 'glucose_100g'
+
+9.  dtype('float64')
+
+10. RangeIndex(start=0, stop=65503, step=1)
+
+11. 'Sea Salt Potato Chips'
