@@ -2,7 +2,7 @@ Steps
 
 3. food = pd.read_csv('YOUR_PATH/FoodFacts.csv')
 
-4. food.head()
+4. food.head() OR food.info()
 
 5. 65503
 
