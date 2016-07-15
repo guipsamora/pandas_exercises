@@ -1,0 +1,145 @@
+Step 1.
+
+import pandas as pd
+
+Step 3.
+
+url = 'https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv'
+    
+chipo = pd.read_csv(url, sep = '\t')
+
+Step 4.
+
+1130
+
+Step 5.
+
+	item_name	item_price
+606	Steak Salad Bowl	11.89
+1229	Barbacoa Salad Bowl	11.89
+1132	Carnitas Salad Bowl	11.89
+7	Steak Burrito	11.75
+168	Barbacoa Crispy Tacos	11.75
+39	Barbacoa Bowl	11.75
+738	Veggie Soft Tacos	11.25
+186	Veggie Salad Bowl	11.25
+62	Veggie Bowl	11.25
+57	Veggie Burrito	11.25
+250	Chicken Salad	10.98
+5	Chicken Bowl	10.98
+8	Steak Soft Tacos	9.25
+554	Carnitas Crispy Tacos	9.25
+237	Carnitas Soft Tacos	9.25
+56	Barbacoa Soft Tacos	9.25
+92	Steak Crispy Tacos	9.25
+664	Steak Salad	8.99
+54	Steak Bowl	8.99
+3750	Carnitas Salad	8.99
+21	Barbacoa Burrito	8.99
+27	Carnitas Burrito	8.99
+33	Carnitas Bowl	8.99
+11	Chicken Crispy Tacos	8.75
+12	Chicken Soft Tacos	8.75
+44	Chicken Salad Bowl	8.75
+1653	Veggie Crispy Tacos	8.49
+16	Chicken Burrito	8.49
+1694	Veggie Salad	8.49
+1414	Salad	7.40
+510	Burrito	7.40
+520	Crispy Tacos	7.40
+673	Bowl	7.40
+298	6 Pack Soft Drink	6.49
+10	Chips and Guacamole	4.45
+1	Izze	3.39
+2	Nantucket Nectar	3.39
+674	Chips and Mild Fresh Tomato Salsa	3.00
+111	Chips and Tomatillo Red Chili Salsa	2.95
+233	Chips and Roasted Chili Corn Salsa	2.95
+38	Chips and Tomatillo Green Chili Salsa	2.95
+3	Chips and Tomatillo-Green Chili Salsa	2.39
+300	Chips and Tomatillo-Red Chili Salsa	2.39
+191	Chips and Roasted Chili-Corn Salsa	2.39
+0	Chips and Fresh Tomato Salsa	2.39
+40	Chips	2.15
+6	Side of Chips	1.69
+263	Canned Soft Drink	1.25
+28	Canned Soda	1.09
+34	Bottled Water	1.09
+
+Step 6.
+
+3389    6 Pack Soft Drink
+341     6 Pack Soft Drink
+1849    6 Pack Soft Drink
+1860    6 Pack Soft Drink
+2713    6 Pack Soft Drink
+3422    6 Pack Soft Drink
+553     6 Pack Soft Drink
+1916    6 Pack Soft Drink
+1922    6 Pack Soft Drink
+1937    6 Pack Soft Drink
+3836    6 Pack Soft Drink
+298     6 Pack Soft Drink
+1976    6 Pack Soft Drink
+1167    6 Pack Soft Drink
+3875    6 Pack Soft Drink
+1124    6 Pack Soft Drink
+3886    6 Pack Soft Drink
+2108    6 Pack Soft Drink
+3010    6 Pack Soft Drink
+4535    6 Pack Soft Drink
+4169    6 Pack Soft Drink
+4174    6 Pack Soft Drink
+4527    6 Pack Soft Drink
+4522    6 Pack Soft Drink
+3806    6 Pack Soft Drink
+2389    6 Pack Soft Drink
+3132    6 Pack Soft Drink
+3141    6 Pack Soft Drink
+639     6 Pack Soft Drink
+1026    6 Pack Soft Drink
+              ...        
+2996         Veggie Salad
+3163         Veggie Salad
+4084         Veggie Salad
+1694         Veggie Salad
+2756         Veggie Salad
+4201    Veggie Salad Bowl
+1884    Veggie Salad Bowl
+455     Veggie Salad Bowl
+3223    Veggie Salad Bowl
+2223    Veggie Salad Bowl
+2269    Veggie Salad Bowl
+4541    Veggie Salad Bowl
+3293    Veggie Salad Bowl
+186     Veggie Salad Bowl
+960     Veggie Salad Bowl
+1316    Veggie Salad Bowl
+2156    Veggie Salad Bowl
+4261    Veggie Salad Bowl
+295     Veggie Salad Bowl
+4573    Veggie Salad Bowl
+2683    Veggie Salad Bowl
+496     Veggie Salad Bowl
+4109    Veggie Salad Bowl
+738     Veggie Soft Tacos
+3889    Veggie Soft Tacos
+2384    Veggie Soft Tacos
+781     Veggie Soft Tacos
+2851    Veggie Soft Tacos
+1699    Veggie Soft Tacos
+1395    Veggie Soft Tacos
+Name: item_name, dtype: object
+
+Step 7.
+
+	order_id	quantity	item_name	choice_description	item_price
+3598	1443	15	Chips and Fresh Tomato Salsa	NaN	44.25
+
+Step 8.
+
+18
+
+Step 9.
+
+20

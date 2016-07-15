@@ -3,11 +3,6 @@
 Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
 Don't get me wrong, tutorials are great resources, but to learn is to do. And copying tutorials won't make you really.
 
-For each learning section there will be three different levels:
-1. Basic
-2. Intermediate
-3. Advanced
-
 And there will be three different types of files:
 1. Exercise instruction
 2. Solutions without code
