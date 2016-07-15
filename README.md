@@ -16,6 +16,6 @@ And there will be three different types of files:
 My suggestion is that you learn a topic in a tutorial or video and then do exercises.
 Learn one more topic and do exercises. If you got the answer wrong, don't go to the solution with code, follow this [advice](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) instead.
 
-Collaborations are more than welcome. :)
+Suggestions and collaborations are more than welcome. :)
 
 
