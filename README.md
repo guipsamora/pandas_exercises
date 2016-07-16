@@ -14,7 +14,9 @@ Learn one more topic and do exercises. If you got the answer wrong, don't go to 
 ## Lessons
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)
 [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)
+
 [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Occupation)
+
 [World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 
