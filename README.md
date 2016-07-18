@@ -20,13 +20,13 @@ Suggestions and collaborations are more than welcome. :)
 [- World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 ### [Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting)
-[- Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Chipotle)
-[- Euro12](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Euro12)
+[- Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Chipotle)  
+[- Euro12](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Euro12)  
 [- Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Fictional%20Army)
 
 ### [Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)
-[- Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Alcohol%20Consumption%20)
-[- Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Occupation)
+[- Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Alcohol%20Consumption%20)  
+[- Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Occupation)  
 [- Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Regiment)
 
 
