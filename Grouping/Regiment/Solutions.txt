@@ -1,71 +1,115 @@
-Step 1.
-
-
-
-Step 2.
-
-
-
 Step 3.
 
 
+regiment	company	name	preTestScore	postTestScore
+0	Nighthawks	1st	Miller	4	25
+1	Nighthawks	1st	Jacobson	24	94
+2	Nighthawks	2nd	Ali	31	57
+3	Nighthawks	2nd	Milner	2	62
+4	Dragoons	1st	Cooze	3	70
+5	Dragoons	1st	Jacon	4	25
+6	Dragoons	2nd	Ryaner	24	94
+7	Dragoons	2nd	Sone	31	57
+8	Scouts	1st	Sloan	2	62
+9	Scouts	1st	Piger	3	70
+10	Scouts	2nd	Riani	2	62
+11	Scouts	2nd	Ali	3	70
 
 Step 4.
 
-
+	preTestScore	postTestScore
+regiment		
+Dragoons	15.50	61.5
+Nighthawks	15.25	59.5
+Scouts	2.50	66.0
 
 Step 5.
 
-
+		postTestScore	preTestScore
+company			
+1st	count	6.000000	6.000000
+mean	57.666667	6.666667
+std	27.485754	8.524475
+min	25.000000	2.000000
+25%	34.250000	3.000000
+50%	66.000000	3.500000
+75%	70.000000	4.000000
+max	94.000000	24.000000
+2nd	count	6.000000	6.000000
+mean	67.000000	15.500000
+std	14.057027	14.652645
+min	57.000000	2.000000
+25%	58.250000	2.250000
+50%	62.000000	13.500000
+75%	68.000000	29.250000
+max	94.000000	31.000000
 
 Step 6.
 
-
+company
+1st     6.666667
+2nd    15.500000
+Name: preTestScore, dtype: float64
 
 Step 7.
 
-
+regiment    company
+Dragoons    1st         3.5
+            2nd        27.5
+Nighthawks  1st        14.0
+            2nd        16.5
+Scouts      1st         2.5
+            2nd         2.5
+Name: preTestScore, dtype: float64
 
 Step 8.
 
 
+company	1st	2nd
+regiment		
+Dragoons	3.5	27.5
+Nighthawks	14.0	16.5
+Scouts	2.5	2.5
 
 Step 9.
 
-
+		preTestScore	postTestScore
+regiment	company		
+Dragoons	1st	3.5	47.5
+            2nd	27.5	75.5
+Nighthawks	1st	14.0	59.5
+            2nd	16.5	59.5
+    Scouts	1st	2.5	66.0
+            2nd	2.5	66.0
 
 Step 10.
 
-
+company  regiment  
+1st      Dragoons      2
+         Nighthawks    2
+         Scouts        2
+2nd      Dragoons      2
+         Nighthawks    2
+         Scouts        2
+dtype: int64
 
 Step 11.
 
-
-
-Step 12.
-
-
-
-Step 13.
-
-
-
-Step 16.
-
-
-
-Step 17.
-
-
-
-Step 18.
-
-
-
-Step 19.
-
-
-
-Step 20.
-
-
+Dragoons
+   regiment company    name  preTestScore  postTestScore
+4  Dragoons     1st   Cooze             3             70
+5  Dragoons     1st   Jacon             4             25
+6  Dragoons     2nd  Ryaner            24             94
+7  Dragoons     2nd    Sone            31             57
+Nighthawks
+     regiment company      name  preTestScore  postTestScore
+0  Nighthawks     1st    Miller             4             25
+1  Nighthawks     1st  Jacobson            24             94
+2  Nighthawks     2nd       Ali            31             57
+3  Nighthawks     2nd    Milner             2             62
+Scouts
+   regiment company   name  preTestScore  postTestScore
+8    Scouts     1st  Sloan             2             62
+9    Scouts     1st  Piger             3             70
+10   Scouts     2nd  Riani             2             62
+11   Scouts     2nd    Ali             3             70
