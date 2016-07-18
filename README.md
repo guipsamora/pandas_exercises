@@ -4,8 +4,8 @@ Fed up with a ton of tutorials but no easy way to find exercises I decided to cr
 Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
 
 There will be three different types of files:  
-1. Exercise instructions
-2. Solutions without code
+1. Exercise instructions  
+2. Solutions without code  
 3. Solutions with code and comments
 
 My suggestion is that you learn a topic in a tutorial or video and then do exercises.
