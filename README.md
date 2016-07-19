@@ -29,5 +29,5 @@ Suggestions and collaborations are more than welcome. :)
 [- Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Occupation)  
 [- Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Regiment)
 
-
-
+### [Apply](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)
+[- Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Apply/Students%20Alcohol%20Consumption)
