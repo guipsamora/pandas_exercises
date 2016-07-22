@@ -15,32 +15,28 @@ Suggestions and collaborations are more than welcome. :)
 
 # Lessons
 
+|				|				|		|
 |:-------------:|:-------------:|:-----:|
-|[Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)| right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|[Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)|[Apply](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)| Merge |
+|[Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting)| Stats      |   Visualization |
+|[Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)| Deleting and Droping      |    Indexing |
+|Exporting | Creating Series and DataFrames| Using Dates|
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)  
-
-|:-------------:|:-------------:|:-----:|
-|[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)| [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Occupation) | $1600 |
-|[World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/World%20Food%20Facts| TBD      |   TBD |
-| TBD | TBD      |    TBD|
-
-
-[- Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)  
-[- Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Occupation)  
-[- World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
+[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)  
+[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Occupation)  
+[World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 ### [Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting)
-[- Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Chipotle)  
-[- Euro12](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Euro12)  
-[- Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Fictional%20Army)
+[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Chipotle)  
+[Euro12](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Euro12)  
+[Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting/Fictional%20Army)
 
 ### [Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)
-[- Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Alcohol%20Consumption%20)  
-[- Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Occupation)  
-[- Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Regiment)
+[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Alcohol%20Consumption%20)  
+[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Occupation)  
+[Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Regiment)
 
 ### [Apply](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)
-[- Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Apply/Students%20Alcohol%20Consumption)
+[Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Apply/Students%20Alcohol%20Consumption)     
+
