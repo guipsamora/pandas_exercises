@@ -17,9 +17,9 @@ Suggestions and collaborations are more than welcome. :)
 
 |				|				|		|
 |:-------------:|:-------------:|:-----:|
-|[Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)|[Apply](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)| Merge |
-|[Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/Filtering_%26_Sorting)| Stats      |   Visualization |
-|[Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping)| Deleting and Droping      |    Indexing |
+|[Getting and knowing](#getting-and-knowing)|[Apply](#apply)| Merge |
+|[Filtering and Sorting](#filtering-and-sorting)| Stats      |   Visualization |
+|[Grouping](#grouping)| Deleting and Droping      |    Indexing |
 |Exporting | Creating Series and DataFrames| Using Dates|
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)  
