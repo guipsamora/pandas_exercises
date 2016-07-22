@@ -15,7 +15,6 @@ Suggestions and collaborations are more than welcome. :)
 
 # Lessons
 
-|               |               |       |
 |:-------------:|:-------------:|:-----:|
 |[Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)| right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
@@ -23,10 +22,9 @@ Suggestions and collaborations are more than welcome. :)
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)  
 
-|               |               |       |
 |:-------------:|:-------------:|:-----:|
-|[- Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)| [- Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Occupation) | $1600 |
-|[- World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/World%20Food%20Fac$| TBD      |   TBD |
+|[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)| [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Occupation) | $1600 |
+|[World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/World%20Food%20Facts| TBD      |   TBD |
 | TBD | TBD      |    TBD|
 
 
