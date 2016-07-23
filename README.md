@@ -17,10 +17,10 @@ Suggestions and collaborations are more than welcome. :)
 
 |				|				|		|
 |:-------------:|:-------------:|:-----:|
-|[Getting and knowing](#getting-and-knowing)|[Apply](#apply)|[Merge](#merge)|
+|[Getting and knowing](#getting-and-knowing)|[Merge](#merge) |Exporting|
 |[Filtering and Sorting](#filtering-and-sorting)| Stats      |   Visualization |
 |[Grouping](#grouping)| Deleting and Droping      |    Indexing |
-|Exporting | Creating Series and DataFrames| Using Dates|
+|[Apply](#apply)| Creating Series and DataFrames| Using Dates|
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)  
 [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)  
