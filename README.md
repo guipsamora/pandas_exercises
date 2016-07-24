@@ -18,7 +18,7 @@ Suggestions and collaborations are more than welcome. :)
 |				|				|		|
 |:-------------:|:-------------:|:-----:|
 |[Getting and knowing](#getting-and-knowing)|[Merge](#merge) |Exporting|
-|[Filtering and Sorting](#filtering-and-sorting)| Stats      |   Visualization |
+|[Filtering and Sorting](#filtering-and-sorting)| [Stats](#stats)  |   Visualization |
 |[Grouping](#grouping)| Deleting and Droping      |    Indexing |
 |[Apply](#apply)| Creating Series and DataFrames| Using Dates|
 
@@ -43,3 +43,7 @@ Suggestions and collaborations are more than welcome. :)
 ### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/Merge)
 [Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/Merge/Auto_MPG)  
 [House Market](https://github.com/guipsamora/pandas_exercises/tree/master/Merge/Housing%20Market)
+
+### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/Stats)
+[US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/Stats/US_Baby_Names)  
+[Wind_Stats](https://github.com/guipsamora/pandas_exercises/tree/master/Stats/Wind_Stats)

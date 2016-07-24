@@ -1,0 +1,23 @@
+wind   daily average wind speeds for 1961-1978 at 12 synoptic meteorological 
+       stations in the Republic of Ireland (Haslett and raftery 1989).
+
+These data were analyzed in detail in the following article:
+   Haslett, J. and Raftery, A. E. (1989). Space-time Modelling with
+   Long-memory Dependence: Assessing Ireland's Wind Power Resource
+   (with Discussion). Applied Statistics 38, 1-50.
+
+Each line corresponds to one day of data in the following format:
+year, month, day, average wind speed at each of the stations in the order given
+in Fig.4 of Haslett and Raftery : 
+ RPT, VAL, ROS, KIL, SHA, BIR, DUB, CLA, MUL, CLO, BEL, MAL
+
+Fortan format : ( i2, 2i3, 12f6.2) 
+
+The data are in knots, not in m/s.
+
+Permission granted for unlimited distribution.
+
+Please report all anomalies to fraley@stat.washington.edu
+
+Be aware that the dataset is 532494 bytes long (thats over half a
+Megabyte).  Please be sure you want the data before you request it.
