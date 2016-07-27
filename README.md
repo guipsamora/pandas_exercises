@@ -15,12 +15,12 @@ Suggestions and collaborations are more than welcome. :)
 
 # Lessons
 
-|				|				|		|
-|:-------------:|:-------------:|:-----:|
-|[Getting and knowing](#getting-and-knowing)|[Merge](#merge) |Exporting|
-|[Filtering and Sorting](#filtering-and-sorting)| [Stats](#stats)  |   Visualization |
-|[Grouping](#grouping)| Deleting and Droping      |    Indexing |
-|[Apply](#apply)| Creating Series and DataFrames| Using Dates|
+|				                                  |				                                   |                   |
+|:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
+|[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |Exporting          |
+|[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |[Visualization](#visualization)      |
+|[Grouping](#grouping)							  | Deleting and Droping                           |Indexing           |
+|[Apply](#apply)							      | Creating Series and DataFrames                 |Time Series (Dates)|
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)  
 [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)  
@@ -47,3 +47,6 @@ Suggestions and collaborations are more than welcome. :)
 ### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/Stats)
 [US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/Stats/US_Baby_Names)  
 [Wind_Stats](https://github.com/guipsamora/pandas_exercises/tree/master/Stats/Wind_Stats)
+
+### [Visualization](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization)
+[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Chipotle)  
