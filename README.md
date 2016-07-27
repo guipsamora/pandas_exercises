@@ -38,7 +38,8 @@ Suggestions and collaborations are more than welcome. :)
 [Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/Grouping/Regiment)
 
 ### [Apply](https://github.com/guipsamora/pandas_exercises/tree/master/Apply)
-[Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Apply/Students%20Alcohol%20Consumption)     
+[Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/Apply/Students_Alcohol_Consumption)  
+[US_Crime_Rates](https://github.com/guipsamora/pandas_exercises/tree/master/Apply/US_Crime_Rates)     
 
 ### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/Merge)
 [Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/Merge/Auto_MPG)  
