@@ -53,3 +53,6 @@ Suggestions and collaborations are more than welcome. :)
 [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Chipotle)  
 [Titanic Disaster](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Titanic_Desaster)  
 [Scores](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Scores)  
+[Online Retail](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Online_Retail)  
+
+
