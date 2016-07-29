@@ -13,6 +13,8 @@ Learn one more topic and do exercises. If you got the answer wrong, don't go to 
 
 Suggestions and collaborations are more than welcome. :)
 
+In case you want to ask anything you can open issues or write here [![Codewake](https://www.codewake.com/badges/ask_question.svg)](https://www.codewake.com/p/pandas-exercise)
+
 # Lessons
 
 |				                                  |				                                   |                   |
