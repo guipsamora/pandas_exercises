@@ -19,7 +19,7 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 
 |				                                  |				                                   |                   |
 |:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
-|[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |Time Series(#time-series)           |
+|[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |[Time Series](#time-series)           |
 |[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |Deleting and Droping      |
 |[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
 |[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
