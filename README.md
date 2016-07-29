@@ -19,10 +19,10 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 
 |				                                  |				                                   |                   |
 |:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
-|[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |Exporting          |
+|[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |Time Series (Dates)(#time-series)           |
 |[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |Deleting and Droping      |
 |[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
-|[Apply](#apply)							      | [Creating Series and DataFrames](#Creating-Series-and-DataFrames) 		            |Time Series (Dates)|
+|[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)  
 [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)  
@@ -60,3 +60,6 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 
 ### [Creating Series and DataFrames](https://github.com/guipsamora/pandas_exercises/tree/master/Creating_Series_and_DataFrames)  
 [Pokemon](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Pokemon)  
+
+### [Time Series](https://github.com/guipsamora/pandas_exercises/tree/master/Time_Series)  
+[Apple_Stock](https://github.com/guipsamora/pandas_exercises/tree/master/Time_Series/Apple_Stock)  
