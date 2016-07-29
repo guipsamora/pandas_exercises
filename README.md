@@ -18,9 +18,9 @@ Suggestions and collaborations are more than welcome. :)
 |				                                  |				                                   |                   |
 |:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
 |[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |Exporting          |
-|[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |[Visualization](#visualization)      |
-|[Grouping](#grouping)							  | Deleting and Droping                           |Indexing           |
-|[Apply](#apply)							      | Creating Series and DataFrames                 |Time Series (Dates)|
+|[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |Deleting and Droping      |
+|[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
+|[Apply](#apply)							      | [Creating Series and DataFrames](#Creating-Series-and-DataFrames) 		            |Time Series (Dates)|
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data)  
 [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/Getting_%26_Knowing_Your_Data/Chipotle)  
@@ -55,3 +55,6 @@ Suggestions and collaborations are more than welcome. :)
 [Scores](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Scores)  
 [Online Retail](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Online_Retail)  
 [Tips](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Tips)  
+
+### [Creating Series and DataFrames](https://github.com/guipsamora/pandas_exercises/tree/master/Creating_Series_and_DataFrames)  
+[Pokemon](https://github.com/guipsamora/pandas_exercises/tree/master/Visualization/Pokemon)  
