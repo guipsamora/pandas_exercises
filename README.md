@@ -63,3 +63,4 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 
 ### [Time Series](https://github.com/guipsamora/pandas_exercises/tree/master/Time_Series)  
 [Apple_Stock](https://github.com/guipsamora/pandas_exercises/tree/master/Time_Series/Apple_Stock)  
+[Getting_Financial_Data](https://github.com/guipsamora/pandas_exercises/tree/master/Time_Series/Getting_Financial_Data)  
