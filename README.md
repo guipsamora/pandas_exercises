@@ -20,7 +20,7 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 |				                                  |				                                   |                   |
 |:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
 |[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |[Time Series](#time-series)|
-|[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |Deleting and Droping      |
+|[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |[Deleting](#Deleting)       |
 |[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
 |[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
 
@@ -65,3 +65,7 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 [Apple_Stock](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  
 [Getting_Financial_Data](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
 [Investor_Flow_of_Funds_US](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
+
+### [Deleting](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting)  
+[Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
+
