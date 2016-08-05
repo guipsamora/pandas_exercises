@@ -68,4 +68,5 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 
 ### [Deleting](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting)  
 [Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
+[Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
 
