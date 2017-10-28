@@ -11,9 +11,7 @@ There will be three different types of files:
 My suggestion is that you learn a topic in a tutorial or video and then do exercises.
 Learn one more topic and do exercises. If you got the answer wrong, don't go to the solution with code, follow this [advice](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) instead.
 
-Suggestions and collaborations are more than welcome. :)
-
-In case you want to ask anything you can open issues or write here [![Codewake](https://www.codewake.com/badges/ask_question.svg)](https://www.codewake.com/p/pandas-exercise)
+Suggestions and collaborations are more than welcome. Please open an issue or make a PR. :)
 
 # Lessons
 
