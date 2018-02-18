@@ -33,7 +33,7 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 [Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
 ### [Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping)
-[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol%20Consumption%20)  
+[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
 [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Occupation)  
 [Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Regiment)
 
