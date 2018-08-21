@@ -39,7 +39,8 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 
 ### [Apply](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply)
 [Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/Students_Alcohol_Consumption)  
-[US_Crime_Rates](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/US_Crime_Rates)     
+[US_Crime_Rates](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/US_Crime_Rates)  
+[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)
 
 ### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
