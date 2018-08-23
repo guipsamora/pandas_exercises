@@ -42,9 +42,9 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 [US_Crime_Rates](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/US_Crime_Rates)     
 
 ### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge)
-[Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)
-[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)
-[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)
+[Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
+[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
+[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats)
 [US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
