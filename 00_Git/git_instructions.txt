@@ -1,0 +1,43 @@
+There are a few commands to follow in order to keep your code in sync with the remote repository where other collaborators are working on the same repository at the same time.
+'
+The very first command to look for in git is:
+
+> git status
+
+Git status shows current state of the repository. Whether a changed file or removed file or added a directory, all of these qualify as a changed state of the repository.
+
+The next command in the sequence of keeping your repository in sync with remote repo is:
+
+> git add
+
+Git add allows you to select the changes that you want to keep.
+
+Next:
+
+> git commit -m "commit info or message"
+
+Git commit makes sure that you stage the desired changes to be synchronized with the remote repository.
+
+Next is:
+
+>git pull
+
+Git pull fetches latest state of remote repository and tries to compare it with the local changes. If you happen to change the same lines of code in the same file as that of the other collaborators, then it throws an error saying "conflict in changes".
+
+If you get any conflict in your changes, then you go to your conflicted file, select which changes to keep (by deleting the other code and the meta/commit information). Then you add those conflict resolution changes by "git add" then again "git commit -m "conflict is now resolved".Then again take pull, just in case anyone else updated the remote repo meanwhile. 
+
+
+Finally, to reflect your changes in the remote repository:
+
+> git push
+
+this will take all your committed changes and will push them to the cloud location of your repository.
+
+
+----------------------------------------
+
+For every changes you make, you basically follow the same steps - to keep the remote repo updated with your changes.
+
+
+
+-----------------------------------------
