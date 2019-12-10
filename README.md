@@ -69,3 +69,8 @@ Suggestions and collaborations are more than welcome.🙂 Please open an issue o
 [Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
 [Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
 
+# Video Solutions
+
+Video tutorials of data scientists working through the above exercises:
+
+[Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv)
