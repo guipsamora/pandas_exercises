@@ -69,6 +69,6 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 [Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
 [Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
 
-Links to Awesome Pandas tutorials :
+# Links to Awesome Pandas tutorials :
 
 1. <a href="https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428"> Minimally Sufficient Pandas</a>
