@@ -15,6 +15,17 @@ Learn one more topic and do more exercises. If you are stuck, don't go directly 
 
 Suggestions and collaborations are more than welcome.🙂 Please open an issue or make a PR indicating the exercise and your problem/solution.
 
+# Contributing
+
+As a community project, we're seeking help to converting this repo into a complete repository for mastering Pyspark.
+
+We need assistance with the following:
+* Convert existing `.ipynb` files with Pandas solutions to Pyspark solutions.
+* Create new issues
+* List ways to run Pyspark on local machines (Windows, MacOS, Linux).
+
+To contribute, please either raise an issue in the `Issues` tab, or raise a pull request for an existing issue. So far, we've listed issues for every exercise in the repo.
+
 # Lessons
 
 |				                                  |				                                   |                   |
