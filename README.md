@@ -19,11 +19,13 @@ Suggestions and collaborations are more than welcome.🙂 Please open an issue o
 As a community project, we're seeking help to converting this repo into a complete repository for mastering Pyspark.
 
 We need assistance with the following:
-* Convert existing `.ipynb` files with Pandas solutions to Pyspark solutions.
-* Create new issues
-* List ways to run Pyspark on local machines (Windows, MacOS, Linux).
+## Convert existing `.ipynb` files with Pandas solutions to Pyspark solutions.
+Select an issue in the Issues tab corresponding to one of the tutorial directories. In your pull request, re-write the directory using Pyspark instead of pandas. So far, we've listed issues for every exercise in the repo.
+## Create new issues
+We have a lot of refactoring to do outside of the lessons. If you see something that needs to be changed, please raise an issue. To contribute, please either raise an issue in the `Issues` tab, or raise a pull request for an existing issue. 
 
-To contribute, please either raise an issue in the `Issues` tab, or raise a pull request for an existing issue. So far, we've listed issues for every exercise in the repo.
+## Readme's
+Our readme section could use some work. For instance, we should list ways to run Pyspark on local machines (Windows, MacOS, Linux).
 
 # Lessons
 
