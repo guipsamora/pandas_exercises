@@ -1,6 +1,6 @@
 # Pyspark Exercises
 
-We created this repository as a way to help Data Scientists learning Pyspark become familiar with the tools and functionality of the API. This repository was forked from [Guipsamora's Pandas Exercises](https://github.com/guipsamora/pandas_exercises) project and repurposed to solve the same exercises using the Pyspark API instead of Pandas.
+We created this repository as a way to help Data Scientists learning Pyspark become familiar with the tools and functionality available in the API. This repository contains 11 lessons covering core concepts in data manipulation. This repository was forked from [Guipsamora's Pandas Exercises](https://github.com/guipsamora/pandas_exercises) project and repurposed to solve the same exercises using the Pyspark API instead of Pandas.
 
 Tutorials are great resources, but to learn is to do. So unless you practice you won't learn. Pyspark is no exception!
 
