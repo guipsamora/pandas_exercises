@@ -1,0 +1,85 @@
+order_id/quantity/item_name/choice_description/item_price 
+1/1/Chicken Bowl/[Fresh Tomato Salsa(Mild), [Cheese, Lettuce]]/$8.68 
+1/1/Chicken Burrito/[Fresh Tomato Salsa, [Pinto Beans, Green Beans, Cheese, Lettuce]]/$9.00 
+1/1/Chicken Salad/[Tomatillo Green Pepper Salsa, [Pinto Beans, Guacamole, Sour Cream, Lettuce]]/$8.46 
+1/1/Chicken Soft Tacos/[Tomatillo Green Chili Salsa, [Rice, Cheese, Sour Cream, Lettuce]]/$8.46 
+2/1/Chicken Crispy Tacos/[Fresh Tomato Salsa, [Green Beans, Cheese, Lettuce]]/$8.80 
+2/1/Chicken Bowl/[Tomatillo Green Chili Salsa, [Green Beans, Black Beans, Cheese, Sour Cream, Lettuce]]/$8.80 
+2/1/Chicken Soft Tacos/[Tomatillo Green Chili Salsa, [Rice, Cheese, Guacamole, Green Beans, Lettuce]]/$8.46 
+3/2/Canned Soda/NULL/$2.26 
+3/1/Chips and Guacamole/[Tomatillo Green Pepper Salsa, [Black Beans, Pinto Beans, Sour Cream, Lettuce, Guacamole]]/$8.80 
+4/1/Chicken Burrito/[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]/$8.75 
+4/1/Bottled Milk/NULL/$2.04 
+4/1/Bottled Soda/NULL/$2.26 
+4/2/Steak Soft Tacos/[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]/$9.18 
+4/1/Steak Burrito/[Tomatillo Green Chili Salsa, [Green Beans, Cheese, Guacamole, Lettuce]]/$8.80 
+4/1/Steak Bowl/[Tomatillo Potato Chili Salsa, [Black Beans, Sour Cream, Cheese, Lettuce]]/$8.75 
+5/2/Steak Crispy Tacos/[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Lettuce]]/$8.68 
+5/1/Steak Hard Tacos/[Tomatillo Potato Chili Salsa, [Cookie, Black Beans, Green Beans, Sour Cream, Lettuce]]/$8.21 
+5/1/Chicken Soft Tacos/[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]/$8.46 
+5/1/Chicken Hard Tacos/[Tomatillo Green Chili Salsa, [Cookie, Rice, Green Beans, Sour Cream, Lettuce]]/$8.21 
+5/2/Chicken Crispy Tacos/[Tomatillo Potato Chili Salsa, [Rice, Green Beans, Black Beans, Cheese, Lettuce]]/$8.68 
+6/2/Kellied Canned Soda/NULL/$3.20 
+6/1/Chicken Soft Tacos/[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]/$8.46 
+6/1/Bottled Milk/NULL/$2.51 
+6/2/Millied Bottled Soda/NULL/$2.63 
+7/2/Veggie Burrito/[Fresh Tomato Salsa, [Pinto Beans, Cheese, Sour Cream, Lettuce]]/$8.21 
+7/1/Steak Crispy Tacos/[Tomatillo Potato Chili Salsa, [Green Beans, Cheese, Lettuce]]/$8.68 
+8/2/Steak Hard Tacos/[Tomatillo Potato Chili Salsa, [Rice, Pinto Beans, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.21 
+8/1/Chicken Burrito/[Fresh Tomato Salsa, [Rice, Green Beans, Black Beans, Cheese, Sour Cream, Lettuce]]/$8.21
+8/2/Steak Bowl/[Tomatillo Green Chili Salsa, [Pinto Beans, Cheese, Sour Cream, Lettuce]]/$8.68
+8/2/Canned Milk/NULL/$8.46
+8/1/Veggie Soft Tacos/[Tomatillo Green Chili Salsa, [Pinto Beans, Cheese, Guacamole, Lettuce]]/$8.21
+8/1/Veggie Soft Tacos/[Fresh Tomato Salsa, [Green Beans, Black Beans, Cheese, Lettuce]]/$8.28 
+9/1/Bottled Milk/NULL/$2.18 
+9/1/Chicken Popcorn Salad/[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Lettuce]]/$8.21 
+9/1/Chicken Popcorn Bowl/[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]/$8.21 
+9/1/Chicken Popcorn Burrito/[Tomatillo Potato Chili Salsa, [Rice, Black Beans, Cheese, Lettuce]]/$8.46 
+9/1/Veggie Hard Tacos/[Fresh Tomato Salsa, [Green Beans, Cheese, Guacamole, Lettuce]]/$8.46
+9/1/Veggie Soft Tacos/[Tomatillo Green Chili Salsa, [Green Beans, Cheese, Guacamole, Lettuce]]/$8.21 
+10/2/Kellied Bottled Soda/NULL/$2.63 
+11/1/Steak Burrito/[Tomatillo Potato Chili Salsa, [Green Beans, Black Beans, Cheese, Sour Cream, Lettuce]]/$8.21 
+12/2/Bottled Milk/NULL/$2.51 
+12/1/Chicken Soft Tacos/[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce]]/$8.68 
+12/1/Chicken Burrito/[Tomatillo Green Pepper Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.21 
+12/2/Chicken Crispy Tacos/[Tomatillo Green Chili Salsa, [Pinto Beans, Cheese, Sour Cream, Lettuce]]/$9.18 
+12/2/Steak Crispy Tacos/[Tomatillo Green Chili Salsa, [Black Beans, Cheese, Sour Cream, Lettuce]]/$9.18 
+12/2/Chicken Crispy Tacos/[Tomatillo Green Chili Salsa, [Black Beans, Cheese, Sour Cream, Lettuce]]/$9.18 
+13/1/Chicken Burrito/[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.21
+13/1/Canned Soda/NULL/$2.05 
+13/2/Steak Soft Tacos/[Tomatillo Yellow Chili Salsa, [Rice, Green Beans, Black Beans, Guacamole, Sour Cream, Lettuce]]/$8.22 
+13/1/Steak Bowl/[Fresh Tomato Salsa, [Pinto Beans, Cheese, Lettuce]]/$8.45 
+14/1/Steak Burrito/[Fresh Tomato Salsa, [Cheese, Sour Cream, Lettuce]]/$9.00 
+14/1/Bottled Milk/NULL/$2.05 
+14/1/Chicken Burrito/[Fresh Tomato Salsa, [Pinto Beans, Black Beans, Cheese, Lettuce]]/$9.00 
+15/1/Duck Bowl/[Fresh Tomato Salsa, [Green Beans, Cheese, Sour Cream, Lettuce]]/$9.00 
+15/1/Duck Soft Tacos/[Fresh Tomato Salsa, [Green Beans, Cheese, Lettuce]]/$9.00 
+15/4/Bottled Milk Tea/NULL/$2.04 
+15/1/Duck Burrito/[Tomatillo Yellow Chili Salsa, [Rice, Green Beans, Black Beans, Cheese, Sour Cream, Lettuce]]/$8.22 
+16/2/Bottled Green Tea/NULL/$2.04 
+16/2/Bottled Milk Tea/NULL/$2.04 
+17/1/Duck Salad Bowl/[Fresh Tomato Salsa, [Cheese, Lettuce]]/$8.21 
+17/1/Duck Soft Tacos/[Tomatillo Potato Chili Salsa, [Green Beans, Cheese, Lettuce]]/$8.80 
+17/1/Chicken Salad Bowl/[Tomatillo Potato Chili Salsa, [Cookie, Cheese, Sour Cream, Lettuce]]/$8.21 
+17/1/Steak Bowl/[Tomatillo Green Chili Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.45 
+18/1/Steak Soft Tacos/[Tomatillo Okra Chili Salsa, [Okra, Cheese, Sour Cream, Lettuce]]/$9.18 
+18/1/Steak Crispy Tacos/[Fresh Okra Salsa, [Okra, Cheese, Sour Cream, Lettuce]]/$9.09 
+18/4/Chicken Soft Tacos/[Fresh Okra Salsa, [Okra, Cheese, Lettuce]]/$9.18 
+18/1/Chicken Crispy Tacos/[Tomatillo Okra Chili Salsa, [Okra, Cheese, Lettuce]]/$9.09 
+19/1/Chicken Soft Tacos/[Tomatillo Green Chili Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.21 
+19/1/Chicken Burrito/[Tomatillo Green Chili Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.21 
+19/1/Chicken Bowl/[Tomatillo Green Chili Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.21 
+19/1/Steak Soft Tacos/[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.75 
+19/1/Steak Burrito/[Tomatillo Green Chili Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.75 
+19/1/Steak Bowl/[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.75 
+20/2/Chicken Bowl/[Fresh Tomato Salsa, [Rice, Green Beans, Cheese, Sour Cream, Lettuce]]/$8.21
+21/1/Canned Milk(Kellied)/NULL/$2.51 
+21/2/Canned Soda(Mild)/NULL/$2.63 
+21/1/Canned Tea(Millied)/NULL/$2.26 
+21/2/Bottled Milk(Mild)/NULL/$2.51 
+21/1/Bottled Soda(Millied)/NULL/$2.63 
+21/2/Bottled Tea(Kellied)/NULL/$2.26 
+22/1/Chicken Crispy Tacos/[Tomatillo Okra Chili Salsa, [Rice, Okra, Cheese, Lettuce]]/$9.09 
+22/4/Chicken Soft Tacos/[Fresh Okra Salsa, [Okra, Black Beans, Cheese, Lettuce]]/$9.18 
+22/1/Steak Crispy Tacos/[Fresh Okra Salsa, [Okra, Black Beans, Cheese, Sour Cream, Lettuce]]/$9.09 
+22/1/Steak Soft Tacos/[Tomatillo Okra Chili Salsa, [Rice, Okra, Cheese, Sour Cream, Lettuce]]/$9.18 
