@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 .Rproj
 .Rproj.user
+
+**.tsv
+*.tsv
+*.csv
