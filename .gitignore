@@ -1,3 +1,48 @@
 .ipynb_checkpoints
 .Rproj
 .Rproj.user
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment/virtual env folders
+env/
+venv/
+.venv/
+
+# Jupyter notebook runtime
+*.nbconvert.ipynb
+*.nb.html
+
+# Data files (optional if you don’t want to commit large data)
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Log files
+*.log
+
+# SQLite or temporary databases
+*.sqlite3
+
+# Jupyter checkpoints (you already have this)
+.ipynb_checkpoints/
+
+# Package and dependency files (if not needed in Git)
+*.egg-info/
+
+# Codespace or container config
+.devcontainer/
+
+# Conda environment
+*.conda
+*.lock
