@@ -24,7 +24,7 @@ Suggestions and collaborations are more than welcome.🙂 Please open an issue o
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
 - [ ] [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)
-- [ ] Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)
+- [ ] [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)
 - [ ] [World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 
