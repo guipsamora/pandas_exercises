@@ -23,8 +23,8 @@ Suggestions and collaborations are more than welcome.🙂 Please open an issue o
 |[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
 
 ### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
-[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
+- [ ][Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
+- [ ][Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
 [World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 ### [Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
